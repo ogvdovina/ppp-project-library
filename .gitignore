@@ -12,3 +12,8 @@ playwright-report/
 Thumbs.db
 
 _archive/
+
+# Внутренние материалы остаются локально
+public/local-data/
+.local/
+reports/**/screenshots/
